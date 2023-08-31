@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0c9ec112.chunk.css",
+    "main.js": "./static/js/main.ac766707.chunk.js",
+    "main.js.map": "./static/js/main.ac766707.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/css/2.60f58927.chunk.css": "./static/css/2.60f58927.chunk.css",
+    "static/js/2.27379839.chunk.js": "./static/js/2.27379839.chunk.js",
+    "static/js/2.27379839.chunk.js.map": "./static/js/2.27379839.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.60f58927.chunk.css.map": "./static/css/2.60f58927.chunk.css.map",
+    "static/css/main.0c9ec112.chunk.css.map": "./static/css/main.0c9ec112.chunk.css.map",
+    "static/js/2.27379839.chunk.js.LICENSE.txt": "./static/js/2.27379839.chunk.js.LICENSE.txt",
+    "static/media/SavedProductsButton.scss": "./static/media/Cart.89133a0a.svg",
+    "static/media/SearchBar.scss": "./static/media/Search.1e77bbf1.svg",
+    "static/media/ProductActions.scss": "./static/media/HeartFilled.0adbb61b.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/arrow-gray-right.f3e02e62.svg",
+    "static/media/CartPage.scss": "./static/media/Plus.60b4bc00.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.ttf",
+    "static/media/Pagination.scss": "./static/media/arrow-gray-up.bca5376b.svg",
+    "static/media/Dropdown.scss": "./static/media/arrow-gray-down.98c9dd6d.svg",
+    "static/media/BackButton.scss": "./static/media/arrow-left.c0d01b22.svg",
+    "static/media/Carousel.scss": "./static/media/banner-tablets.a962057c.png",
+    "static/media/CategoryList.scss": "./static/media/category-tablets.cba4e95c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/css/2.60f58927.chunk.css",
+    "static/js/2.27379839.chunk.js",
+    "static/css/main.0c9ec112.chunk.css",
+    "static/js/main.ac766707.chunk.js"
+  ]
+}
